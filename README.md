@@ -1,6 +1,5 @@
 # E-Commerce Customer Acquisition Optimization
 
-> 🚧 **Status:** In Progress - Week 1
 
 ## Project Goal
 
@@ -37,18 +36,18 @@ ecommerce-cac-optimization/
 
 - [x] Project setup
 - [x] Environment configuration
-- [ ] Data acquisition
-- [ ] Data exploration
-- [ ] Data cleaning
-- [ ] Business metrics analysis
-- [ ] Customer segmentation
-- [ ] Insights & recommendations
+- [x] Data acquisition
+- [x] Data exploration
+- [x] Data cleaning
+- [x] Business metrics analysis
+- [x] Customer segmentation
+- [] Insights & recommendations
 - [ ] Dashboard creation
 - [ ] Final report
 
 ## Dataset
 
-[Will add details after downloading]
+[]
 
 ## Next Steps
 
@@ -58,7 +57,7 @@ ecommerce-cac-optimization/
 
 ---
 
-**Started:** [Today's Date]  
-**Author:** [Your Name]  
-**Contact:** [Your Email/LinkedIn]
+**Started:** []  
+**Author:** []  
+**Contact:** []
 
